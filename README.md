@@ -59,7 +59,7 @@ Enable cost-effective surround view and lane detection by:
 
 > Add this line below if you have a sample image or GIF in the repo:
 
-![BEV Output]()
+![BEV Output](Screenshot%202025-04-23%20103845.png)
 
 ## Key libraries used:
 
@@ -80,7 +80,7 @@ Enable cost-effective surround view and lane detection by:
 - **Optimize for deployment on embedded devices**
 
 ## Contributors
-SriCheran CH – sricheran320@gmail.com
-Aditya V
-Bavathayini N
+- SriCheran CH – sricheran320@gmail.com
+- Aditya V
+- Bavathayini N
 
