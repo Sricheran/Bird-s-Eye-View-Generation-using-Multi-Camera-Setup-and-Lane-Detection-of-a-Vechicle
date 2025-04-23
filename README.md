@@ -1,4 +1,4 @@
-# 🛰️ 360° Bird’s Eye View (BEV) Generation & Lane Detection using nuScenes Multi-Camera Setup
+#  360° Bird’s Eye View (BEV) Generation & Lane Detection using nuScenes Multi-Camera Setup
 
 This project implements a real-time computer vision pipeline to generate **Bird’s Eye View (BEV)** representations and detect **lanes** using only monocular camera inputs from the [nuScenes dataset](https://www.nuscenes.org/nuscenes#download). No LiDAR or 3D point cloud data is used.
 
@@ -6,7 +6,7 @@ This project implements a real-time computer vision pipeline to generate **Bird�
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Enable cost-effective surround view and lane detection by:
 - Stitching camera feeds from 6 surround-view cameras
@@ -17,7 +17,7 @@ Enable cost-effective surround view and lane detection by:
 
 ---
 
-## 🎥 Camera Configuration
+##  Camera Configuration
 
 - Cameras Used: CAM_FRONT, CAM_FRONT_LEFT, CAM_FRONT_RIGHT, CAM_BACK, CAM_BACK_LEFT, CAM_BACK_RIGHT
 - Image Format: 1600×900 JPEG
@@ -26,7 +26,7 @@ Enable cost-effective surround view and lane detection by:
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 ### 🔹 1. Image Stitching
 - Extract camera calibration and pose data from:
@@ -55,7 +55,7 @@ Enable cost-effective surround view and lane detection by:
 
 ---
 
-## 🧪 Sample Output
+##  Sample Output
 
 ![BEV Output](Screenshot%202025-04-23%20103845.png)
 
