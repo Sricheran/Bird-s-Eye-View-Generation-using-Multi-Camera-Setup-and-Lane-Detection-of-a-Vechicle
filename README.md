@@ -57,8 +57,6 @@ Enable cost-effective surround view and lane detection by:
 
 ## 🧪 Sample Output
 
-> Add this line below if you have a sample image or GIF in the repo:
-
 ![BEV Output](Screenshot%202025-04-23%20103845.png)
 
 ## Key libraries used:
