@@ -79,6 +79,6 @@ Enable cost-effective surround view and lane detection by:
 
 ## Contributors
 - SriCheran CH – sricheran320@gmail.com
-- Aditya V
+- Aditya V - adityavenkatesh16@gmail.com
 - Bavathayini N
 
