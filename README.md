@@ -1,5 +1,4 @@
 #  360° Bird’s Eye View (BEV) Generation & Lane Detection using nuScenes Multi-Camera Setup
-
 This project implements a real-time computer vision pipeline to generate **Bird’s Eye View (BEV)** representations and detect **lanes** using only monocular camera inputs from the [nuScenes dataset](https://www.nuscenes.org/nuscenes#download). No LiDAR or 3D point cloud data is used.
 
 > Built using classical computer vision algorithms like **SIFT**, **Homography**, **Perspective Transform**, and **Hough Line Detection**.
